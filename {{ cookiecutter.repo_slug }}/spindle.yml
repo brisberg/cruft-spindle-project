@@ -1,0 +1,9 @@
+id: "{{ cookiecutter.repo_slug }}"
+version: "0.1.0"
+title: "{{ cookiecutter.title }}"
+format: "sugarcube-2.31.1"
+description: "{{ cookiecutter.description }}"
+header:
+  - "header"
+deps:
+  - "src"

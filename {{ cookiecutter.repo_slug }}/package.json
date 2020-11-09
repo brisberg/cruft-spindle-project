@@ -1,0 +1,14 @@
+{
+  "name": "{{ cookiecutter.repo_slug }}",
+  "version": "0.1.0",
+  "description": "{{ cookiecutter.description }}",
+  "scripts": {
+    "build": "yarn run spindle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "{{ cookiecutter.full_name }}",
+  "license": "MIT",
+  "devDependencies": {
+    "@brisberg/spindle": "^0.2.1"
+  }
+}
