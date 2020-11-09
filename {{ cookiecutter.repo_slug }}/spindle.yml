@@ -4,6 +4,6 @@ title: "{{ cookiecutter.title }}"
 format: "sugarcube-2.31.1"
 description: "{{ cookiecutter.description }}"
 header:
-  - "header"
+  - "header/*"
 deps:
-  - "src"
+  - "src/*"
