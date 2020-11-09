@@ -1,0 +1,8 @@
+{
+  "full_name": "Brandon Risberg",
+  "email": "brandon.risberg@gmail.com",
+  "github_username": "brisberg",
+  "title": "My Twine Game",
+  "repo_slug": "{{ cookiecutter.title|lower|replace(' ', '-') }}",
+  "description": "Short project description."
+}
