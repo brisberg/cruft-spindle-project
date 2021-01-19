@@ -3,6 +3,7 @@
   "email": "brandon.risberg@gmail.com",
   "github_username": "brisberg",
   "title": "My Twine Game",
+  "subtitle": "Built with Spindle",
   "repo_slug": "{{ cookiecutter.title|lower|replace(' ', '-') }}",
   "description": "Short project description."
 }

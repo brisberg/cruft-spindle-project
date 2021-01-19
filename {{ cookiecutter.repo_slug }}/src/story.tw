@@ -1,6 +1,16 @@
 :: StoryTitle
 {{ cookiecutter.title }}
 
+:: StorySubtitle
+{{ cookiecutter.subtitle }}
+
+:: StoryAuthor
+{{ cookiecutter.full_name }}
+
+:: StoryBanner
+
+:: StoryCaption
+
 :: StoryData
 {
 	"format": "SugarCube",
